@@ -1,0 +1,110 @@
+/*CELULAR*/
+@media (min-width: 480px){
+    /*TODOS OS TÍTULOS*/
+    h1{
+        font-size: 2rem; /*Tamanho da Fonte de 200%*/
+    }
+    
+    /*TODOS OS TEXTOS QUE NÃO SEJAM TÍTULOS*/
+    p, a, span{
+        font-size: 1rem; /*Tamanho da fonte de 100%*/
+    }
+
+    /*SEÇÃO DO CONTEÚDO PRINCIPAL*/
+    main section{
+        padding: 0 96px; /*Preenchimento de 0px na Vertical e de 96px nas Laterais*/
+    }
+}
+
+/*DESKTOP*/
+@media (min-width: 1024px){
+    /*CONTEÚDO HTML*/
+    body{
+        display: flex; /*Flexbox*/
+        flex-direction: column; /*Alinha em Colunas*/
+        align-items: center; /*Alinha ao centro no Eixo Perpendicular*/
+        justify-content: center; /*Alinha ao centro no Eixo Principal*/
+    }
+
+    /*LOGOTIPO*/
+    #logo{
+        width: 160px; /*Largura de 160px*/
+    }
+
+    /*CABEÇALHO*/
+    header{
+        padding: 16px 15%; /*Preenchimento de 16px na Vertical e de 15% na Horizontal*/
+    }
+
+    /*CABEÇALHO E RODAPÉ*/
+    header, footer{
+        width: 100%; /*Largura de 100%*/
+    }
+
+    /*RODAPÉ*/
+    footer{
+        height: 120px; /*Largura de 120px*/
+    }
+
+    /*BOTÕES DO MENU MOBILE*/
+    #abrirMenuMobile, #fecharMenuMobile{
+        display: none; /*Esconde o Menu Mobile*/
+    }
+
+    /*MENU*/
+    #menu{
+        background-color: transparent; /*Cor de Fundo Transparente*/
+        position: static; /*Posição Estática - Original*/
+        display: flex; /*Flexbox*/
+    }
+
+    /*LINKS DO MENU*/
+    #menu a{
+        margin: 0; /*Zera a Margem*/
+        padding: 0; /*Zera o Preenchimento*/
+        background-color: transparent; /*Cor de Fundo Transparente*/
+        color: #272D2D; /*Cor do Texto Cinza*/
+        margin-left: 24px; /*Margem a esquerda de 32px*/
+    }
+
+    /*LINKS DO MENU AO PASSAR O MOUSE*/
+    #menu a:hover{
+        color: #A44200; /*Cor do Texto - Marrom*/
+    }
+
+    /*SEÇÃO DO CONTEÚDO PRINCIPAL*/
+    main section{
+        display: flex; /*Flexbox*/
+        flex-direction: column; /*Alinha em Colunas*/
+        align-items: center; /*Alinha ao centro no Eixo Perpendicular*/
+        justify-content: center; /*Alinha ao centro no Eixo Principal*/
+        max-width: 1200px; /*Largura Máxima de 1200px*/
+    }   
+
+    /*IMAGENS E MAPA DO GOOGLE*/
+    main section img, iframe{
+        width: 480px; /*Largura de 480px*/
+    }
+
+    /*ESCONDER MOBILE*/
+    .hidden-mobile{
+        display: flex; /*Flexbox*/
+    }
+
+    /*ESCONDER DESKTOP*/
+    .hidden-desktop{
+        display: none; /*Esconde o Elemento*/
+    }
+
+    /*CONTEÚDO DO CONTAINER*/
+    .container-content{
+        display: flex; /*Flexbox*/
+        margin-top: 24px; /*Margem do topo de 24px*/
+ 
+    }
+
+    /*TEXTO DO CONTAINER*/
+    .text-container{
+        margin: 32px; /*Margem em todos os lados de 32px*/
+    }
+}
