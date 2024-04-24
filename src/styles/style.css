@@ -67,7 +67,7 @@ header{
 
 /*ADICIONA CLASSE PARA MANIPULAÇÃO JAVASCRIPT*/
 .menu-responsive{
-    background-color: #272D2Dca; /*Cor de Fundo Cinza com opacidade*/
+    background-color: #000; /*Cor de Fundo Cinza com opacidade*/
     width: 100%; /*Largura de 100%*/
     height: 100%; /*Altura de 100%*/
     position: absolute; /*Posição Absoluta*/
@@ -92,14 +92,14 @@ header{
     padding: 16px; /*Preenchimento de 16px*/
     border: 0px solid #272D2D; /*Borda branca de 1px -> zerei*/
     border-radius: 4px; /*Arredonda o botão*/
-    background-color: #272D2D; /*Cor de Fundo Cinza*/
+    background-color: #000; /*Cor de Fundo Cinza*/
     color: #FDFFFF; /*Cor dos Links Branco*/
     text-decoration: none; /*Tira o Sublinhado*/
 }
 
 /*BTN DO MENU MOBILE*/
 #abrirMenuMobile, #fecharMenuMobile{
-    height: 32px; /*Altura de 32px*/
+    height: 24px; /*Altura de 32px*/
     
 }
 
