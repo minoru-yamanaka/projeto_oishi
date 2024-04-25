@@ -50,6 +50,17 @@ Este projeto foi proposto pelo Prof. Vagner Augusto em nossa jornada no curso de
 
 	![Protótipo](/src/images/prototipo.png)
 
+### Telas Desktop e mobile 
+
+![tela](/src/images/desktop/home1.jpg)
+![tela](/src/images/desktop/home2.jpg)
+![tela](/src/images/desktop/menu3.jpg)
+![tela](/src/images/desktop/ambiente1.jpg)
+![tela](/src/images/desktop/cardapio1.jpg)
+![tela](/src/images/desktop/localizacao1.jpg)
+![tela](/src/images/desktop/reserva1.jpg)
+![tela](/src/images/desktop/sobre1.jpg)
+
 
 
 	
