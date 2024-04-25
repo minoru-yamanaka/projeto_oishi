@@ -3,7 +3,7 @@
     margin: 0; /*Zera a Margem*/
     padding: 0; /*Zera o Preenchimento*/
     box-sizing: border-box; /*Ajusta o Box Model*/
-    font-family: 'Marcellus', serif; /*Fonte do Google - Marcellus*/
+    font-family: "Noto Sans JP", sans-serif;  /*Fonte do Google - Noto Sans JP*/
 }
 
 /*CONTEÚDO DO HTML*/
@@ -22,7 +22,7 @@ body{
 /*TODO OS TÍTULOS*/
 h1{
     font-size: 1.5rem; /*Tamanho da fonte de 150%*/
-    font-family: "Gowun Batang", serif; /*Fonte do Google - Gowun Batang*/
+    font-family: "Noto Sans JP", sans-serif;  /*Fonte do Google - Noto Sans JP*/
 }
 
 /*TODOS OS TEXTOS QUE NÃO SÃO TÍTULOS*/
