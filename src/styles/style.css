@@ -11,7 +11,7 @@ body{
     max-width: 100vw; /*Largura Máxima de 100% do Viewport*/ 
     min-height: 100vh; /*Altura Máxima de 100% do Viewport*/
     background-color: #000; /*Cor de Fundo Branca - 60%*/
-    color: white; /*Cor de Fundo Cinza - 30%*/
+    color: #FCFCFC; /*Cor de Fundo Cinza - 30%*/
 }
 
 /*ADICIONA CLASSE PARA MANIPULAÇÃO JS*/
@@ -52,7 +52,7 @@ p:last-child{
 
 /*CABEÇALHO*/
 header{
-    background-color: white; /*Cor de Fundo Cinza com opacidade*/
+    background-color: #FCFCFC; /*Cor de Fundo Cinza com opacidade*/
     box-shadow: 1px 1px 10px #272D2D; /*Sombra Cinza*/
     display: flex; /*Flexbox*/
     justify-content: space-between; /*Alinha os elementos cada um no topo*/
@@ -93,7 +93,7 @@ header{
     border: 0px solid #272D2D; /*Borda branca de 1px -> zerei*/
     border-radius: 4px; /*Arredonda o botão*/
     background-color: #000; /*Cor de Fundo Cinza*/
-    color: #FDFFFF; /*Cor dos Links Branco*/
+    color: #FCFCFC; /*Cor dos Links Branco*/
     text-decoration: none; /*Tira o Sublinhado*/
 }
 
@@ -149,12 +149,12 @@ footer{
     justify-content: center; /*Alinha ao centro no Eixo Principal*/
     align-items: center; /*Alinha ao centro no Eixo Perpendicular*/
     margin-top: 48px; /*Margem no topo de 48px*/
-    background-color: white; /*Cor de Fundo Cinza*/
+    background-color: #FCFCFC; /*Cor de Fundo Cinza*/
 }
 
 /*ICONES DAS REDES SOCIAIS*/
 .icons{
     width: 48px; /*Largura de 48px*/
     margin-left: 16px; /*Margem a esquerda de 16px*/
-    background-color: white; /*Cor de Fundo Cinza*/
+    background-color: #FCFCFC; /*Cor de Fundo Cinza*/
 }
