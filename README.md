@@ -2,6 +2,8 @@
 
 "Este documento é o guia definitivo da identidade visual do nosso site, resultado de uma jornada criativa intensa e inspiradora desde o brainstorming inicial."
 
+[Acesse o site desenvolvido e veja os frutos dessa jornada!](https://minoru-yamanaka.github.io/projeto_oishi.io/)
+
 ## O projeto
 
 Este projeto foi proposto pelo Prof. Vagner Augusto em nossa jornada no curso de Web Design no Senai Barueri. O trabalho que desenvolvi aborda como cliente o Restaurante Oshi (empresa fictícia) na qual obtive materiais como imagens e texto para que pudesse desenvolver um site de forma criativa, mas respeitando sua marca e o briefing atento com o guideline do cliente.
