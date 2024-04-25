@@ -64,5 +64,11 @@ Este projeto foi proposto pelo Prof. Vagner Augusto em nossa jornada no curso de
 ![tela](/src/images/desktop/sobre1.jpg)
 
 
+### Agradecimentos 
+Um grande "muito obrigado" para o incrível Professor Vagner! 🌟
+Quero mandar aquele salve pro mestre Vagner pela vibe irada de criar 📱 esse site de forma mega divertida e cheia de energia nas aulas. Foi tipo um upgrade turbo no meu conhecimento, deixando minha jornada de aprendizado mais top! 🙏🚀. Valeu demais por transformar aprender em algo tão maneiro!
+
+Com todo o carinho e um monte de emojis animados, Minoru🚀🔮
+
 
 	
