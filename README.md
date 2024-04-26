@@ -6,6 +6,8 @@
 
 [Acesse o site desenvolvido e veja os frutos dessa jornada! Hospedagem do Senai](http://senaibarueri.com.br/webdesign/PC12/)
 
+[Desafios de desenvolvimento proposto pelo Professor](http://senaibarueri.com.br/webdesign/projetos/)
+
 ## O projeto
 
 Este projeto foi proposto pelo Prof. Vagner Augusto em nossa jornada no curso de Web Design no Senai Barueri. O trabalho que desenvolvi aborda como cliente o Restaurante Oshi (empresa fictícia) na qual obtive materiais como imagens e texto para que pudesse desenvolver um site de forma criativa, mas respeitando sua marca e o briefing atento com o guideline do cliente.
