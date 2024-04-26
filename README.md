@@ -2,7 +2,9 @@
 
 "Este documento é o guia definitivo da identidade visual do nosso site, resultado de uma jornada criativa intensa e inspiradora desde o brainstorming inicial."
 
-[Acesse o site desenvolvido e veja os frutos dessa jornada!](https://minoru-yamanaka.github.io/projeto_oishi.io/)
+[Acesse o site desenvolvido e veja os frutos dessa jornada! Hospedagem do GitHub](https://minoru-yamanaka.github.io/projeto_oishi.io/)
+
+[Acesse o site desenvolvido e veja os frutos dessa jornada! Hospedagem do Senai](http://senaibarueri.com.br/webdesign/PC12/)
 
 ## O projeto
 
